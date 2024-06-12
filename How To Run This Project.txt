@@ -1,0 +1,11 @@
+1.install python using this link- https://www.python.org/downloads/
+2.After Download python install python
+3.Extract This File 
+4.Open VS Code
+5.Open This Folder in Vs Code
+6.Open Terminal in VS Code
+7.Run This Command For Create Virtual environment -  python -m venv venv
+8.After Sucessfully Create Virtual enviroment Run This Command For active Virual Enviroment-  venv\Scripts\Activate
+9.After Sucessfully Active VIrtual enviroment Run This Command For Install Requirement - pip install -r requirements.txt 
+10.After Sucessfully Install This Requirement Run This Command - python app.py runserver
+11.Enjoy Your Project Is sucessfully Run 
